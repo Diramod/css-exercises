@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+p {
+    background-color: rgb(255, 105, 128);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#colored-text {
+    color: rgb(6, 6, 187);
+    font-size: 36px;
+
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#colored-background {
+    background-color: rgb(159, 238, 159);
+    font-size: 24px;    
+    font-weight: bold;
+}
